@@ -1,2 +1,2 @@
 # Associate Attachment
-WordPress Associate Attachment plugin.
+Associate Attachment plugin for WordPress.
