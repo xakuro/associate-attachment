@@ -4,7 +4,7 @@ Tags: images, media library
 Requires at least: 4.9
 Tested up to: 7.0
 Requires PHP: 5.6
-Stable tag: 1.7.1
+Stable tag: 1.7.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -39,6 +39,9 @@ Associate images and posts in the media library at once (set "Uploaded to").
 2. Associate Image Tool page.
 
 == Changelog ==
+
+= 1.7.2 =
+* Supported WordPress 7.0.
 
 = 1.7.1 =
 * Adhered WordPress coding standards 3.0.1.

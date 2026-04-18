@@ -10,7 +10,7 @@
  * Plugin Name:       Associate Attachment
  * Plugin URI:        https://xakuro.com/wordpress/associate-attachment/
  * Description:       Associate the media library image with the post.
- * Version:           1.7.1
+ * Version:           1.7.2
  * Requires at least: 4.9
  * Requires PHP:      5.6
  * Author:            Xakuro
@@ -24,7 +24,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-define( 'ASSOCIATE_ATTACHMENT_VERSION', '1.7.1' );
+define( 'ASSOCIATE_ATTACHMENT_VERSION', '1.7.2' );
 
 /**
  * Associate Attachment Main class.
